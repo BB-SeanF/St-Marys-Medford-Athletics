@@ -69,7 +69,7 @@ export const tocItemInfo = [
 export const projectFrames = [
     {
         id:1,
-        img:"/images/hp1.jpg",
+        img:"/images/hp.jpg",
         height:"3389px",
         width: "1600px",
         title: "St. Mary's New Athletic Site",
@@ -181,9 +181,9 @@ export const fixedNavGraphic = {
         height:"163px",
     },
     scrolled: {
-        img:"/images/navScrolled.png",
+        img:"/images/navBar.png",
         width:"1600px",
-        height:"88px",
+        height:"163px",
     }
 }
 
