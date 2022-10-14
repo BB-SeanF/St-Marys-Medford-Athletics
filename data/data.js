@@ -69,7 +69,7 @@ export const tocItemInfo = [
 export const projectFrames = [
     {
         id:1,
-        img:"/images/hp.jpg",
+        img:"/images/hp1.jpg",
         height:"3389px",
         width: "1600px",
         title: "St. Mary's New Athletic Site",
